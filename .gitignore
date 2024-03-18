@@ -9,7 +9,7 @@ __pycache__/
 bin/
 build/
 develop-eggs/
-dist/
+dist/**/*.exe
 eggs/
 lib/
 lib64/
