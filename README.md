@@ -1,9 +1,9 @@
-# Hamtare
+# Hämtare
 
-Hamtare (Swedish for Fetcher) is the best (and only) GUI to download videos, using yt-dlp and tkinter, in < 200 lines of Python.
+Hämtare (Swedish for Fetcher) is the best (and only) GUI to download videos you need. Uses yt-dlp and tkinter, in under 200 lines of Python. 
 
 <p align="center">
-  <img src="screenshot.png" alt="Hamtare screenshot on Windows" />
+  <img src="screenshot.png" alt="Hämtare screenshot on Windows" />
 </p>
 
 ## Download
